@@ -1,0 +1,87 @@
+---
+title: "La technologie en pisciculture"
+author: "Pic Anthony"
+date: "09/02/2023"
+output: 
+   prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+
+bibliography: biblio/Open.bib
+csl: biblio/isara-iso-690.csl
+
+---
+
+```{r setup, include=FALSE}
+library(prettydoc)
+```
+[@rdocumentation_paquet_2019]
+
+# **I/ Introduction :**
+
+
+## **1/ Définition de la pisciculture : **
+
+La pisciculture est une activité agricole qui consiste à élever des poissons dans des espaces contrôlés. Cet élevage a pour objectif le repeuplement de zones de pêche ou l’alimentation humaine. En France on élève majoritairement de la truite et de la carpe [@ministere_de_lagriculture_pisciculture_2017].
+
+## **2/ Importance de l’optimisation de la production de poisson.**
+
+La production de poisson est un secteur importante pour répondre à la demande mondiale de protéines animales. Il est donc important d’optimiser cette production pour maximiser les bénéfices des pisciculteurs, tout en répondant aux besoins de la population.
+
+## **3/ Présentation de l’utilisation de la technologie pour optimiser la production de poisson.**
+
+Les avancées technologiques ont un impact important sur la pisciculture, en permettant aux pisciculteurs de mieux surveiller et d’optimiser les conditions de vie des poissons, tout en gérant les ressources et les coûts de manière plus efficace. La technologie peut également aider à améliorer la qualité et la durabilité de la production de poisson, ainsi qu’à la rendre plus respectueuse de l’environnement.
+
+
+# **II/ Les différentes technologies utilisées pour optimiser la production de poisson**
+
+
+## **1/ Systèmes de surveillance en temps réel.**
+
+ La surveillance en temps réel des installations de pisciculture est cruciale pour garantir la santé des poissons et leur bien-être. Les systèmes de surveillance en temps réel permettent aux éleveurs de surveiller en temps réel les paramètres environnementaux tels que la température, l’oxygénation et la qualité de l’eau. Cela leur permet de détecter rapidement les anomalies et de prendre les mesures nécessaires pour corriger les problèmes [@wei_hongchen_pisciculture_2020].
+ 
+## **2/ Logiciels de suivi de la production.**
+
+Les logiciels de suivi de la production permettent aux éleveurs de suivre les performances de leur installation de pisciculture. Ils peuvent suivre les taux de mortalité, la croissance des poissons et la consommation d’aliments. Les éleveurs peuvent également utiliser ces données pour optimiser les conditions environnementales et la nutrition des poissons pour maximiser la production [@rohana_p_subasinghe_david_curry_sharon_e_mcgladdery_et_devin_bartley_innovations_2016].
+
+## **3/ Technologies pour améliorer la nutrition des poissons .**
+
+La nutrition est un facteur clé pour la croissance et la production de poisson. Les technologies telles que les systèmes automatisés de nourrissage, les régimes alimentaires enrichis et les systèmes de contrôle de la qualité des aliments peuvent aider les éleveurs à fournir une nutrition optimale aux poissons. Cela peut améliorer la croissance, réduire les taux de mortalité et maximiser la production [@rohana_p_subasinghe_david_curry_sharon_e_mcgladdery_et_devin_bartley_innovations_2016].
+
+
+# **III/ Les avantages et les défis de l’utilisation de la technologie pour optimiser la production de poisson **
+
+
+## **1/ Avantages de l’utilisation de la technologie :**
+
+L’utilisation de la technologie pour optimiser la production de poisson apporte plusieurs avantages. Tout d’abord, elle permet une surveillance en temps réel de la production grâce à des systèmes de surveillance automatisés. Cela peut inclure la surveillance de la qualité de l’eau, des paramètres environnementaux tels que la température et la lumière, ainsi que la surveillance de la croissance et de la santé des poissons. Cela peut aider à détecter rapidement tout problème et à prendre des mesures correctives pour maintenir la qualité de la production.
+De plus, les logiciels de suivi de la production permettent une analyse plus efficace de la production, ce qui peut conduire à une meilleure prise de décision pour améliorer la production. Les technologies pour améliorer la nutrition des poissons, telles que les systèmes de distribution automatisés de nourriture, peuvent également aider à garantir que les poissons reçoivent la nutrition adéquate pour une croissance optimale.
+
+## **2/ Défis de l’utilisation de la technologie :**
+
+Bien que l’utilisation de la technologie pour optimiser la production de poisson présente de nombreux avantages, elle comporte également certains défis. L’un des défis les plus importants est le coût élevé des équipements technologiques et des logiciels associés, ce qui peut être un obstacle pour les petites entreprises de pisciculture. En outre, l’expertise technique requise pour installer et utiliser ces technologies peut également être un défi pour certains exploitants de piscicultures.
+
+## **3/ Perspectives pour l’avenir de la pisciculture.**
+
+Malgré les défis, l’utilisation de la technologie pour optimiser la production de poisson est en constante évolution et continuera à évoluer à mesure que de nouvelles technologies seront développées. La tendance actuelle est de plus en plus vers l’automatisation de la production de poisson, ce qui permettra une production plus efficace et une meilleure qualité des produits. De plus, les avancées technologiques pourront également aider à résoudre les défis actuels tels que la protection de l’environnement et la durabilité de la pisciculture. Les perspectives pour l’avenir de la pisciculture sont donc très prometteuses grâce à l’utilisation de la technologie pour optimiser la production de poisson.
+
+
+
+# **IV/ Conclusion **
+
+
+## **1/ Résumé des points clés.**
+
+Dans cette rédaction, nous avons examiné la façon dont la technologie peut être utilisée pour optimiser la production de poisson en pisciculture. Nous avons commencé par définir ce qu’est la pisciculture et en quoi l’optimisation de la production de poisson est importante. Ensuite, nous avons présenté différentes technologies qui peuvent être utilisées pour améliorer la production, telles que les systèmes de surveillance en temps réel, les logiciels de suivi de la production et les technologies pour améliorer la nutrition des poissons.
+
+## **2/ Importance de l’utilisation de la technologie pour l’optimisation de la production de poisson.**
+
+Nous avons également examiné les avantages et les défis de l’utilisation de la technologie pour optimiser la production de poisson. Les avantages incluent une meilleure surveillance en temps réel, une plus grande efficacité dans la gestion de la production et une amélioration de la qualité et de la santé des poissons. Cependant, l’utilisation de la technologie peut également présenter des défis, tels que des coûts élevés et la nécessité de compétences en informatique.
+
+## **3/ Perspective pour l’avenir de la pisciculture et l’utilisation de la technologie.**
+
+En conclusion, l’utilisation de la technologie pour optimiser la production de poisson en pisciculture semble être un choix judicieux pour l’avenir. Les avantages potentiels sont importants et peuvent aider à améliorer la qualité et la quantité de production de poisson. Cependant, il est important de surmonter les défis pour maximiser les avantages de cette technologie. Les perspectives pour l’avenir de la pisciculture et de l’utilisation de la technologie sont très prometteuses, et nous pouvons nous attendre à voir une utilisation accrue de la technologie pour optimiser la production de poisson.
+
+# Bibliographie 
+
+
